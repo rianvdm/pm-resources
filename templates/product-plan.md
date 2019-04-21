@@ -31,7 +31,7 @@ This is a modified version of Marty Cagan's outline presented in [Assessing Prod
 
 ### Known risks
 
-_What we should acknowledge as potential knock-on effects on other projects?_
+_What should we acknowledge as potential knock-on effects on other projects?_
 
 
 ### Cross-team dependencies

@@ -6,7 +6,9 @@ This template can be used by teams to help them think through the purpose, goals
 
 Not all sections need to be filled out, and the entire document certainly won't be completed up front. As a living document, fill out what's applicable and available, and add/remove as you go.
 
-# Project plan — <project name here>
+***
+
+# Project plan — PROJECT NAME
 
 ## 🚀 Product Opportunity Assessment
 

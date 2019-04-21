@@ -4,4 +4,4 @@ A slowly-expanding collection of resources, templates, and guidelines for produc
 
 ## Templates
 
-* [Product specification document](/blob/master/templates/product-plan.md) 
+* [Product specification document](https://github.com/rianvdm/pm-resources/blob/master/templates/product-plan.md) 

@@ -1,7 +1,9 @@
 # Product management resources
 
-A slowly-expanding collection of resources, templates, and guidelines for product managers.
+A slowly-expanding collection of resources, templates, and guidelines for product managers. For more PM articles and resources, see my blog, [Elezea](https://elezea.com/blog/).
 
-## Templates
+## [Templates](https://github.com/rianvdm/pm-resources/tree/master/templates)
 
-* [Product specification document](https://github.com/rianvdm/pm-resources/blob/master/templates/product-plan.md) 
+* Product specification document
+* Persona template (OmniGraffle)
+* User journey templaten(OmniGraffle)

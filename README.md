@@ -6,4 +6,4 @@ A slowly-expanding collection of resources, templates, and guidelines for produc
 
 * Product specification document
 * Persona template (OmniGraffle)
-* User journey templaten(OmniGraffle)
+* User journey template (OmniGraffle)

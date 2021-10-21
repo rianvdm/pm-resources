@@ -12,10 +12,14 @@ Not all sections need to be filled out, and the entire document certainly won't 
 
 ## 🎯 DACI
 
-Driver: 
-Approver:  
-Contributors: 
-Informed:  
+Driver:
+
+Approver:
+
+Contributors:
+
+Informed:
+
 
 ## 🚀 Product Opportunity Assessment
 

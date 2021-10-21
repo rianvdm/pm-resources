@@ -10,6 +10,13 @@ Not all sections need to be filled out, and the entire document certainly won't 
 
 # Project plan — PROJECT NAME
 
+## 🎯 DACI
+
+Driver: 
+Approver:  
+Contributors: 
+Informed:  
+
 ## 🚀 Product Opportunity Assessment
 
 This is a modified version of Marty Cagan's outline presented in [Assessing Product Opportunities](https://svpg.com/assessing-product-opportunities/).

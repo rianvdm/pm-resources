@@ -62,9 +62,14 @@ _Is new help documentation needed? Does existing documentation need to be update
 _What additional reporting is needed to ensure that the new product or features can be tracked effectively?_
 
 
+### QA impact
+
+_How will this change be tested? Can we rely on existing tests or should we plan to create new tests? Do we need a new endpoint to support test data creation to make testing this change possible?_ 
+
+
 ## 😃 Solution overview
 
-### General overview of how we plan to address the problem
+### General overview of how we plan to address the opportunity
 
 
 ### Breakdown of proposed tasks and release schedule

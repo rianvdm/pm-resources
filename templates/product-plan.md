@@ -14,10 +14,10 @@ Not all sections need to be filled out, and the entire document certainly won't 
 
 This is a modified version of Marty Cagan's outline presented in [Assessing Product Opportunities](https://svpg.com/assessing-product-opportunities/).
 
-### Exactly what problem will this solve? (value proposition)
+### What opportunity (problem, need, or desire) will this project address? (value proposition)
 
 
-### For whom do we solve that problem? (target market)
+### For whom do we address that opportunity? (target market)
 
 
 ### How will we measure success/make money from this product? (metrics/revenue strategy)

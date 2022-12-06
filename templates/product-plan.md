@@ -64,7 +64,7 @@ _What additional reporting is needed to ensure that the new product or features 
 
 ### QA impact
 
-_How will this change be tested? Can we rely on existing tests or should we plan to create new tests? Do we need a new endpoint to support test data creation to make testing this change possible?_ 
+_How will [quality be built-in from the start](https://deming.org/inspection-is-too-late-the-quality-good-or-bad-is-already-in-the-product/)? How will we make this automatedly testable? Is any manual testing needed? Do we need a new endpoint to support test data creation to make testing this change possible? Can we rely on existing tests or should we plan to create new tests?_
 
 
 ## 😃 Solution overview

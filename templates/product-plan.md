@@ -2,7 +2,7 @@
 
 ## Purpose and guidelines
 
-This template can be used by teams to help them think through the purpose, goals, and implications of product ideas and features. This should be seen as a living document and should therefore be edited in non-permanent locations such as Dropdbox Paper or Google Docs. These documents should be accessible and editable by the entire team.
+This template can be used by teams to help them think through the purpose, goals, and implications of product ideas and features. This should be seen as a living document and should therefore be edited in non-permanent locations such as Dropbox Paper or Google Docs. These documents should be accessible and editable by the entire team.
 
 Not all sections need to be filled out, and the entire document certainly won't be completed up front. As a living document, fill out what's applicable and available, and add/remove as you go.
 

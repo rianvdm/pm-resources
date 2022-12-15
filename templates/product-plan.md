@@ -72,7 +72,9 @@ _How will [quality be built-in from the start](https://deming.org/inspection-is-
 ### General overview of how we plan to address the opportunity
 
 
-### Breakdown of proposed tasks and release schedule
+### Breakdown of proposed tasks and what goes into each release
+
+_Make each release to production as small as possible. Shop incremental value._
 
 
 ### Estimated time frame

@@ -4,6 +4,6 @@ A slowly-expanding collection of resources, templates, and guidelines for produc
 
 ## [Templates](https://github.com/rianvdm/pm-resources/tree/master/templates)
 
-* [Product specification document](product-plan.md)
+* [Product specification document](templates/product-plan.md)
 * Persona template (OmniGraffle)
 * User journey template (OmniGraffle)

@@ -10,7 +10,7 @@ Not all sections need to be filled out, and the entire document certainly won't 
 
 # Project plan — PROJECT NAME
 
-## 🎯 DACI
+## 🎯 DACI (see more info [here](processes/daci.md))
 
 Driver:
 
@@ -38,6 +38,9 @@ This is a modified version of Marty Cagan's outline presented in [Assessing Prod
 
 
 ### What factors are critical to success? (solution requirements)
+
+
+### How will this product/feature be discovered and adopted (Go to Market)
 
 
 ## 😬 Dependencies and Risks

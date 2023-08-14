@@ -10,7 +10,7 @@ Not all sections need to be filled out, and the entire document certainly won't 
 
 # Project plan — PROJECT NAME
 
-## 🎯 DACI (see more info [here](processes/daci.md))
+## 🎯 DACI (see more info [here](daci.md))
 
 Driver:
 

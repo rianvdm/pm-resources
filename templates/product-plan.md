@@ -77,7 +77,7 @@ _How will [quality be built-in from the start](https://deming.org/inspection-is-
 
 ### Breakdown of proposed tasks and what goes into each release
 
-_Make each release to production as small as possible. Shop incremental value._
+_Make each release to production as small as possible. Ship incremental value frequently. Learn and adjust._
 
 
 ### Estimated time frame

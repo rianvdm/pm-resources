@@ -1,6 +1,8 @@
 # Introduction
 
-Hi! My name is Rian, and I look forward to getting to know each other. I am a Director of Product here at [], and I look after our []. The purpose of this document is to briefly summarize some of the values and principles I try to adhere to at work. But we are all humans and this is going to be a relationship, not a contract, so see it as a kick-start to how we work together, not the end result. Let’s get to it!
+Hi! My name is Rian, and I look forward to getting to know you! I am a Director of Product here at [], and I look after our []. The purpose of this document is to summarize some of the values and principles I try to adhere to at work. But we are all humans and this is going to be a relationship, not a contract, so see it as a kick-start to how we work together, not the end result.
+
+Let’s get to it!
 
 
 # My Leadership Philosophy
@@ -22,11 +24,11 @@ That doesn’t mean I hate meetings! I just prefer meetings to be for work that 
 
 For synchronous meetings I prefer a clear agenda and outcomes, as well as a pre-read (if available).
 
-I might sometimes send emails in off-hours. It will usually be a relevant article I read, or a thought about a thing we’re doing next week. I have zero expectations that anyone will respond in off-hours (unless it’s an emergency).
+I might sometimes send emails in off-hours. It will usually be a relevant article I read, or a thought about a thing we’re doing next week. I have zero expectations that you will respond in off-hours (unless it’s an emergency). This is not some kind of test, I really do mean this.
 
 # Decision-Making Style
 
-I prefer collaboration over consensus. It’s really important to me to have as many voices heard wen a decision needs to be made. Ultimately my guiding principle is that **decisions should be made by those closest to the data.** That means that I might ask questions, and ask for lots of other viewpoints, but I will mostly defer decisions to those know the situation best.
+I prefer _collaboration_ over _consensus_. It’s really important to me to have as many voices heard when a decision needs to be made. Ultimately my guiding principle is that **decisions should be made by those closest to the data.** That means that I might ask questions, and ask for lots of other viewpoints, but I will mostly defer decisions to those know the situation best.
 
 In terms of frameworks, for larger projects I like to have a clear [DACI](/processes/daci.md).
 
@@ -34,7 +36,7 @@ In terms of frameworks, for larger projects I like to have a clear [DACI](/proce
 
 I am extremely transparent with my teams (to a fault sometimes, I am told). I don’t believe in managers being umbrellas for their teams. We are partners in search of meeting our common goals. So expect to hear “real talk” from me all the time—about our challenges, our opportunities, and how we could work together to improve the world around us.
 
-My preferred framework for giving (and receiving) feedback is [The Accountability Dial](https://gregharrod.com/how-to-use-a-powerful-tool-the-accountability-dial/). You can read about it in more detail there, but the most important principle there is _The Mention_. It’s the first step and it means pulling someone to tell them something you’re noticing—as close to real-time as possible. This is, in my experience, the best way to deal with something quickly without it becoming a big deal with lots of festering feelings.
+My preferred framework for giving (and receiving) feedback is [The Accountability Dial](https://gregharrod.com/how-to-use-a-powerful-tool-the-accountability-dial/). You can read about it in more detail if you’d like, but the most important principle there is _The Mention_. It’s the first step and it means pulling someone aside to tell them something you’re noticing—as close to real-time as possible. This is, in my experience, the best way to deal with something quickly without it becoming a big deal with lots of festering feelings.
 
 I believe in kindness over everything else. I will never accept that it’s ok to give feedback in a way that is not respectful of the people around us. That [doesn’t mean that I don’t know how to be decisive](https://elezea.com/2024/03/on-kindness-and-decisiveness/).
 

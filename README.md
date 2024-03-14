@@ -4,7 +4,7 @@ A slowly-expanding collection of resources, templates, and guidelines for produc
 
 ## About Me
 
-* How I Work (sometimes refered to as a personal README) _(I'm working on this one)_
+* [How I Prefer To Work](/manager-README.md) (sometimes refered to as a Manager README)
 
 ## Processes
 

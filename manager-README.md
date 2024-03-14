@@ -1,6 +1,6 @@
 # Introduction
 
-Hi! My name is Rian, and I look forward to getting to know you! I am a Director of Product here at [], and I look after our []. The purpose of this document is to summarize some of the values and principles I try to adhere to at work. But we are all humans and this is going to be a relationship, not a contract, so see it as a kick-start to how we work together, not the end result.
+Hi! My name is Rian, and I look forward to getting to know you. I am a Director of Product here at [], and I look after our []. The purpose of this document is to summarize some of the values and principles I try to adhere to at work. But we are all humans and this is going to be a relationship, not a contract, so see it as a kick-start to how we work together, not the end result.
 
 Let’s get to it!
 

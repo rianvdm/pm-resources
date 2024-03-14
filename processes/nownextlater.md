@@ -1,4 +1,6 @@
-At Jeli we use an adapted version of a **Now/Next/Later roadmap** to plan our work. You can read more about this approach in [Introduction to Lean Roadmapping](https://www.prodpad.com/resources/guides/ditch-the-timeline-roadmap/intro-to-lean-roadmapping/) by its creator, Janna Bastow. In short, here are the guiding principles for using this roadmap and why it is effective:
+# Now / Next / Later roadmap
+
+I prefer to use an adapted version of a **Now/Next/Later roadmap** to plan our work. You can read more about this approach in [Introduction to Lean Roadmapping](https://www.prodpad.com/resources/guides/ditch-the-timeline-roadmap/intro-to-lean-roadmapping/) by its creator, Janna Bastow. In short, here are the guiding principles for using this roadmap and why it is effective:
 
 - Deadline-driven development is fraught with issues that make it a fairly ineffective way to plan delivery work. This includes:
     - Long-term priorities frequently change based on new data and developments, so any planning past a few months out is mostly fiction and rarely happens as planned.

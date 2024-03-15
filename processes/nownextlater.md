@@ -15,6 +15,6 @@ I prefer to use an adapted version of a **Now/Next/Later roadmap** to plan our w
         - Changes to "Later" can--and often does--happen whenever new data becomes available that makes us shift priorities. This is expected and encouraged, until the project moves to "Next" where it gets locked in and fully spec'd.
     - I sometimes cheat and add **"Much Later", which lists things that we think will be 6-12 months out**. The likelihood of these projects changing are high, but it is good to have a long-term view on what we believe, with the current information we have, will be important for the business and our customers to work one.
 
-**We do acknowledge and recognize that delivery dates are important.** We prefer to work with [high-integrity commitments](https://www.svpg.com/managing-commitments-in-an-agile-team/), which are dates that delivery teams commit to once they have had a chance to properly scope out a project (which sometimes means getting started without a completion date set).
+**I acknowledge and recognize that delivery dates are important.** I prefer to work with [high-integrity commitments](https://www.svpg.com/managing-commitments-in-an-agile-team/), which are dates that delivery teams commit to once they have had a chance to properly scope out a project (which sometimes means getting started without a completion date set).
 
 The teams are accountable to these dates because they have been involved in setting them, and though they can change based on unknowns, these changes should be infrequent.

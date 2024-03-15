@@ -1,13 +1,13 @@
 # Introduction
 
-Hi! My name is Rian, and I look forward to getting to know you. I am a Director of Product here at [], and I look after our []. The purpose of this document is to summarize some of the values and principles I try to adhere to at work. But we are all humans and this is going to be a relationship, not a contract, so see it as a kick-start to how we work together, not the end result.
+Hi! My name is Rian ([blog & portfolio](https://elezea.com/), [LinkedIn](http://www.linkedin.com/in/rianvdm)), and I look forward to getting to know you. I am a Director of Product here at [], and I lead our []. The purpose of this document is to summarize some of the values and principles I try to adhere to at work. But we are all humans and this is a relationship not a contract, so see it as a way to kick-start how we work together, not the end result.
 
 Let’s get to it!
 
 
 # My Leadership Philosophy
 
-I believe that we do our best work in healthy, safe environments. That means that to me, the person is always more important than anything else that might be happening. I am here to be your partner. To listen, to coach, to help clarify with context, to address your feedback, to provide guidance—all of it with the ultimate goal of making _you_ successful.
+I believe that we do our best work in healthy, safe environments. That means that to me, the person is always more important than anything else that might be happening. I am here to be your partner. To listen, to coach, to help clarify with context, to address your feedback, to figure out issues together, to provide guidance—all of it with the ultimate goal of making _you_ successful.
 
 When you are happy and successful, I know that our business and our customers will also be successful. If (well, when...) I fall short of this overall guiding principle please let me know in one of our regular 1:1 meetings, or a message. I want to hear that feedback and keep improving in this area. 
 

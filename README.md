@@ -2,10 +2,6 @@
 
 A slowly-expanding collection of resources, templates, and guidelines for product managers. For more PM articles and resources, see my blog, [Elezea](https://elezea.com/blog/).
 
-## About Me
-
-* [How I Prefer To Work](/manager-README.md) (sometimes referred to as a Manager README)
-
 ## Processes
 
 * [Now/Next/Later roadmap](processes/nownextlater.md)

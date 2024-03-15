@@ -2,7 +2,9 @@
 
 Hi! My name is Rian ([blog & portfolio](https://elezea.com/), [LinkedIn](http://www.linkedin.com/in/rianvdm)), and I look forward to getting to know you. I am a Director of Product here at [], and I lead our []. The purpose of this document is to summarize some of the values and principles I try to adhere to at work. But we are all humans and this is a relationship not a contract, so I see it as a way to kick-start how we work together, not the end result.
 
-Let’s get to it!
+The document is _not_ a way for me to excuse bad behaviors. If you see me do something that is not reflective of these values, please call me out so that I can recognize it and improve.
+
+Ok, let’s get to it!
 
 
 # My Leadership Philosophy

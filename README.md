@@ -3,7 +3,7 @@
 A slowly-expanding collection of resources, templates, and guidelines for product managers. For more PM articles and resources, see my blog, [Elezea](https://elezea.com/blog/).
 
 ## Processes
-
+* [W Planning](processes/w-planning.md)
 * [Now/Next/Later roadmap](processes/nownextlater.md)
 * [DACI](processes/daci.md) (Decision-making framework)
 

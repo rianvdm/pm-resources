@@ -13,7 +13,7 @@ I am the Director of Product at Cloudflare, responsible for:
 - **Data Platform:** Data pipeline, analytics, alerts, logs (Logpush), audit logs, GraphQL API
 - **Developer Tooling:** Internal tools that improve developer productivity and velocity
 
-I lead with autonomy, mastery, and purpose—empowering teams through context and collaboration over consensus. I value async communication, transparent kindness, and continuous learning.
+I believe people are ultimately motivated by Autonomy, Mastery, and Purpose. I believe in enabling empowered teams to make the best decisions they can for the business and its customers based on high quality data. I believe in empowering teams through context and collaboration over consensus. I value async communication, transparent kindness, and continuous learning.
 
 ---
 

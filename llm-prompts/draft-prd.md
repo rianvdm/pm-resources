@@ -932,25 +932,18 @@ h2. What factors are critical to success?
 
 *Must-have requirements:*
 
-# *Unified search across Confluence, GitHub, and internal wikis* - 90% of engineering documentation lives in these three sources. Why: Multi-source search is the core value proposition.
-
-# *Sub-2 second search latency at P95* - User research shows engineers abandon search after 3 seconds. Why: Speed is critical for adoption.
-
-# *Relevant results in top 3 for ≥80% of queries* - If search quality is poor, users will revert to old tools. Why: Relevance is table stakes for search tools.
-
-# *Content freshness indicators* - Show last-updated timestamp and flag stale content (>6 months old). Why: 40% of current docs are outdated; users need to know what to trust.
-
-# *Source filtering* - Filter results by Confluence/GitHub/Wiki. Why: Engineers often know which system to search but need to search across multiple spaces/repos.
-
-# *Zero-setup for users* - No client installation; works in browser. Why: Reducing friction is critical for adoption.
+* *Unified search across Confluence, GitHub, and internal wikis* - 90% of engineering documentation lives in these three sources. Why: Multi-source search is the core value proposition.
+* *Sub-2 second search latency at P95* - User research shows engineers abandon search after 3 seconds. Why: Speed is critical for adoption.
+* *Relevant results in top 3 for ≥80% of queries* - If search quality is poor, users will revert to old tools. Why: Relevance is table stakes for search tools.
+* *Content freshness indicators* - Show last-updated timestamp and flag stale content (>6 months old). Why: 40% of current docs are outdated; users need to know what to trust.
+* *Source filtering* - Filter results by Confluence/GitHub/Wiki. Why: Engineers often know which system to search but need to search across multiple spaces/repos.
+* *Zero-setup for users* - No client installation; works in browser. Why: Reducing friction is critical for adoption.
 
 *Nice-to-have requirements:*
 
-# *AI-powered search suggestions* - Suggest related docs based on search context. Why: Could improve discoverability but not critical for v1; can add post-launch.
-
-# *Inline code examples* - Embed runnable code snippets in search results. Why: Improves developer experience but adds complexity; defer to v2.
-
-# *Usage analytics per document* - Show view counts and trending docs. Why: Useful but not essential for core search experience.
+* *AI-powered search suggestions* - Suggest related docs based on search context. Why: Could improve discoverability but not critical for v1; can add post-launch.
+* *Inline code examples* - Embed runnable code snippets in search results. Why: Improves developer experience but adds complexity; defer to v2.
+* *Usage analytics per document* - Show view counts and trending docs. Why: Useful but not essential for core search experience.
 
 *What will be different when shipped:*
 
@@ -970,9 +963,9 @@ h2. How will this product/feature be discovered and adopted?
 
 *Launch plan:*
 
-# *Beta launch (Weeks 4-6):* Private beta with DevTools team (15 engineers) to gather feedback and iterate on relevance/performance
-# *Pilot expansion (Weeks 7-9):* Expand to 3 additional engineering teams (Data Platform, CDN, Workers) = 50 engineers total with structured feedback sessions every 2 weeks
-# *General availability (Week 10+):* Announce via Engineering All-Hands, email to all-eng@, Slack #engineering channel
+* *Beta launch (Weeks 4-6):* Private beta with DevTools team (15 engineers) to gather feedback and iterate on relevance/performance
+* *Pilot expansion (Weeks 7-9):* Expand to 3 additional engineering teams (Data Platform, CDN, Workers) = 50 engineers total with structured feedback sessions every 2 weeks
+* *General availability (Week 10+):* Announce via Engineering All-Hands, email to all-eng@, Slack #engineering channel
 
 *Distribution & discoverability:*
 

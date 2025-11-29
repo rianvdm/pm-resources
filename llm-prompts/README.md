@@ -6,7 +6,10 @@ System prompts for working with LLMs on common product management tasks. These a
 
 1. Copy the contents of a prompt file
 2. Paste it into your LLM's system prompt or custom instructions
-3. For best results, also include the relevant context files from `general-context/` (available in the [source repo](https://github.com/rianvdm/llm-prompts))
+3. For best results, add your own context files covering:
+   - **About you** — Your role, responsibilities, and what you're working on
+   - **Your leadership/product philosophy** — How you approach decisions, collaboration, and communication
+   - **Style preferences** — Tone, structure, and formatting you prefer in responses
 
 ## Available Prompts
 
@@ -27,6 +30,3 @@ These prompts are built around a few core principles:
 - **Clarity over comprehensiveness** — Short, direct, high-signal communication
 - **Empowered teams** — Provide context and goals, trust teams to find the best approach
 
-## Source
-
-These prompts are synced from [rianvdm/llm-prompts](https://github.com/rianvdm/llm-prompts). For the full set of prompts and context files, see the source repo.

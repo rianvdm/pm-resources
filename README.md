@@ -13,3 +13,13 @@ A slowly-expanding collection of resources, templates, and guidelines for produc
 * [Product specification document](templates/product-plan.md)
 * [Persona template](templates/generic_persona_template.zip) (OmniGraffle)
 * [User journey template](templates/generic_user_journey_template.zip) (OmniGraffle)
+
+## LLM Prompts
+
+System prompts for working with LLMs on common PM tasks. Synced from [llm-prompts](https://github.com/rianvdm/llm-prompts).
+
+* [Ask a PM](llm-prompts/ask-a-pm.md) — Sets up the LLM as a senior PM to help with day-to-day tasks (drafting specs, OKRs, strategy docs)
+* [Ask an SE](llm-prompts/ask-an-se.md) — Sets up the LLM as a Solutions Engineer to answer technical product questions using official documentation
+* [Draft/Review OKRs](llm-prompts/draft-okrs.md) — Comprehensive guide for drafting outcome-focused OKRs with proper structure and anti-patterns to avoid
+* [Draft/Review PRDs](llm-prompts/draft-prd.md) — Framework for writing PRDs using Marty Cagan's Product Opportunity Assessment approach
+* [DevTools Explainer](llm-prompts/eli5-devtools.md) — Explains technical DevTools/infrastructure concepts in accessible language for PMs

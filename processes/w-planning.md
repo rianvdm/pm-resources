@@ -26,9 +26,9 @@ Teams take the goals and strategic context, and create project plans as bets on 
 
 > Instead of being given a roadmap of features, an empowered team is given a problem to solve and they get to figure out the best way to solve that problem.
 
-I like to use a specific Project Plan template for this part, which [you can see here](https://github.com/rianvdm/pm-resources/blob/master/templates/product-plan.md). The plan does not have to have every detail figured out. We view it as “[a road sign into the fog](https://elezea.com/2023/03/product-management-and-the-fog-of-war/).” We make sure the direction and first few steps are known, then add and edit as the fog starts clearing down the road.
+I like to use a specific Project Plan template for this part, which [you can see here](https://github.com/rianvdm/pm-resources/blob/main/templates/product-plan.md). The plan does not have to have every detail figured out. We view it as “[a road sign into the fog](https://elezea.com/2023/03/product-management-and-the-fog-of-war/).” We make sure the direction and first few steps are known, then add and edit as the fog starts clearing down the road.
 
-We then share the plan with everyone in the [DACI section](https://github.com/rianvdm/pm-resources/blob/master/processes/daci.md) of the plan by posting a link and requesting feedback form the team. We discuss comments asynchronously in Google Docs, or synchronously on a Zoom call if a decision can't be made quickly in the comments.
+We then share the plan with everyone in the [DACI section](https://github.com/rianvdm/pm-resources/blob/main/processes/daci.md) of the plan by posting a link and requesting feedback form the team. We discuss comments asynchronously in Google Docs, or synchronously on a Zoom call if a decision can't be made quickly in the comments.
 
 ### Phase 3: Integration
 

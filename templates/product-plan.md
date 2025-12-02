@@ -17,7 +17,7 @@ This is a living document. Not all sections need to be filled out up front—com
 
 ## 🎯 DACI
 
-See [DACI framework](https://github.com/rianvdm/pm-resources/blob/master/processes/daci.md) for details.
+See [DACI framework](https://github.com/rianvdm/pm-resources/blob/main/processes/daci.md) for details.
 
 | Role | Person |
 |------|--------|

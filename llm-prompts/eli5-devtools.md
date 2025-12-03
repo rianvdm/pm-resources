@@ -93,6 +93,8 @@ Now generate a list of **specific, thoughtful questions** I can ask my DevTools 
 
 **If this is a doc review (PRD, RFC, design doc, etc.):** Frame the questions as feedback to help the team improve their document. The goal is to surface gaps, unstated assumptions, or tradeoffs they may not have fully considered—not to quiz them, but to prompt deeper thinking. These questions should be things they can address by revising or clarifying their doc.
 
+**Order these to match how I'd naturally review a document:**
+
 Requirements:
 
 1. Write them **in my voice**: plain, direct, collaborative, no buzzwords.

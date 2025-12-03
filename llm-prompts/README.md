@@ -17,6 +17,7 @@ System prompts for working with LLMs on common product management tasks. These a
 |--------|-------------|
 | [ask-a-pm.md](ask-a-pm.md) | General-purpose PM assistant for drafting docs, thinking through problems, and day-to-day tasks |
 | [ask-an-se.md](ask-an-se.md) | Technical Q&A assistant that answers questions using official Cloudflare documentation |
+| [cloudflare-explainer.md](cloudflare-explainer.md) | Reviews docs and explains Cloudflare product concepts for product leaders using MCP servers |
 | [draft-okrs.md](draft-okrs.md) | Structured guide for drafting outcome-focused OKRs with anti-patterns to avoid |
 | [draft-prd.md](draft-prd.md) | PRD framework based on Marty Cagan's Product Opportunity Assessment |
 | [eli5-devtools.md](eli5-devtools.md) | Explains technical DevTools/infrastructure concepts in accessible language for PMs |

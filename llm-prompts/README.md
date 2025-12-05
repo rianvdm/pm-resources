@@ -20,6 +20,8 @@ System prompts for working with LLMs on common product management tasks. These a
 | [draft-okrs.md](draft-okrs.md) | Structured guide for drafting outcome-focused OKRs with anti-patterns to avoid |
 | [draft-prd.md](draft-prd.md) | PRD framework based on Marty Cagan's Product Opportunity Assessment |
 | [eli5-devtools.md](eli5-devtools.md) | Explains technical DevTools/infrastructure concepts in accessible language for PMs |
+| [cloudflare-explainer.md](cloudflare-explainer.md) | Explains Cloudflare products and concepts in clear, PM-friendly language with examples |
+| [debate-product-idea.md](debate-product-idea.md) | Structured debate partner for stress-testing and refining product ideas from multiple perspectives |
 
 ## Philosophy
 

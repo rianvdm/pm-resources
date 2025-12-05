@@ -16,11 +16,4 @@ A slowly-expanding collection of resources, templates, and guidelines for produc
 
 ## LLM Prompts
 
-System prompts for working with LLMs on common PM tasks.
-
-* [Ask a PM](llm-prompts/ask-a-pm.md) — Sets up the LLM as a senior PM to help with day-to-day tasks (drafting specs, OKRs, strategy docs)
-* [Ask an SE](llm-prompts/ask-an-se.md) — Sets up the LLM as a Solutions Engineer to answer technical product questions using official documentation
-* [Cloudflare Explainer](llm-prompts/cloudflare-explainer.md) — Reviews docs and explains Cloudflare product concepts for product leaders, with MCP server integration
-* [Draft/Review OKRs](llm-prompts/draft-okrs.md) — Comprehensive guide for drafting outcome-focused OKRs with proper structure and anti-patterns to avoid
-* [Draft/Review PRDs](llm-prompts/draft-prd.md) — Framework for writing PRDs using Marty Cagan's Product Opportunity Assessment approach
-* [DevTools Explainer](llm-prompts/eli5-devtools.md) — Explains technical DevTools/infrastructure concepts in accessible language for PMs
+System prompts for working with LLMs on common PM tasks. See more detail in the [directory README](/llm-prompts/README.md).

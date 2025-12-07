@@ -13,15 +13,33 @@ System prompts for working with LLMs on common product management tasks. These a
 
 ## Available Prompts
 
+### Product Management (`pm/`)
+
 | Prompt | Description |
 |--------|-------------|
-| [ask-a-pm.md](ask-a-pm.md) | General-purpose PM assistant for drafting docs, thinking through problems, and day-to-day tasks |
-| [ask-an-se.md](ask-an-se.md) | Technical Q&A assistant that answers questions using official Cloudflare documentation |
-| [draft-okrs.md](draft-okrs.md) | Structured guide for drafting outcome-focused OKRs with anti-patterns to avoid |
-| [draft-prd.md](draft-prd.md) | PRD framework based on Marty Cagan's Product Opportunity Assessment |
-| [eli5-devtools.md](eli5-devtools.md) | Explains technical DevTools/infrastructure concepts in accessible language for PMs |
-| [cloudflare-explainer.md](cloudflare-explainer.md) | Explains Cloudflare products and concepts in clear, PM-friendly language with examples |
-| [debate-product-idea.md](debate-product-idea.md) | Structured debate partner for stress-testing and refining product ideas from multiple perspectives |
+| [ask-a-pm.md](pm/ask-a-pm.md) | General-purpose PM assistant for drafting docs, thinking through problems, and day-to-day tasks |
+| [draft-okrs.md](pm/draft-okrs.md) | Structured guide for drafting outcome-focused OKRs with anti-patterns to avoid |
+| [draft-prd.md](pm/draft-prd.md) | PRD framework based on Marty Cagan's Product Opportunity Assessment |
+| [draft-feedback.md](pm/draft-feedback.md) | Structured feedback drafting assistant |
+| [debate-product-idea.md](pm/debate-product-idea.md) | Structured debate partner for stress-testing and refining product ideas |
+| [summarize-interview.md](pm/summarize-interview.md) | Summarize interview notes |
+
+### Technical (`technical/`)
+
+| Prompt | Description |
+|--------|-------------|
+| [ask-an-se.md](technical/ask-an-se.md) | Technical Q&A assistant using official Cloudflare documentation |
+| [eli5-devtools.md](technical/eli5-devtools.md) | Explains technical DevTools/infrastructure concepts for PMs |
+| [cloudflare-explainer.md](technical/cloudflare-explainer.md) | Explains Cloudflare products in clear, PM-friendly language |
+
+### Development (`dev/`)
+
+| Prompt | Description |
+|--------|-------------|
+| [brainstorming_planning.md](dev/brainstorming_planning.md) | Brainstorming and planning sessions |
+| [claude.md](dev/claude.md) | Claude-specific coding instructions |
+| [code-review.md](dev/code-review.md) | Code review assistant |
+| [development_session.md](dev/development_session.md) | Development session helper |
 
 ## Philosophy
 

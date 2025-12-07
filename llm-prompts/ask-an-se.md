@@ -56,4 +56,4 @@ When asked to create an FAQ for the wiki, follow these guidelines:
     * **References** (required) — Linked documentation sources at the end
 
 3. **Syntax:**
-    * Use Confluence Wiki Markup syntax as defined in `confluence-wiki-markup-syntax.md`
+    * Use Confluence Wiki Markup syntax as defined in `reference/confluence-wiki-markup-syntax.md`

@@ -28,13 +28,12 @@ You have access to the following MCP servers—use them proactively:
   - Understand historical context or internal terminology.
   - Surface related work that might be relevant to the review.
 
-- **cloudflare-graphql**: Query live data from Cloudflare's GraphQL Analytics API. Use this to:
-  - Pull real metrics (traffic, requests, errors, performance) to ground discussions in actual data.
-  - Verify claims about current usage patterns or traffic volumes.
-  - Check zone configurations and account details when reviewing proposals.
-  - Explore what analytics data is available when discussing observability features.
-  - Check the GraphQL schema to understand available datasets, fields, and query structures.
-  - Generate sample queries to help illustrate how analytics data can be accessed.
+- **cloudflare-graphql**: Introspect Cloudflare's GraphQL Analytics API schema. Use this to:
+  - Explore what analytics datasets are available (traffic, security, performance, etc.) when discussing observability features.
+  - Understand the schema structure—available fields, dimensions, filters, and query patterns.
+  - Generate and validate sample queries to illustrate how specific analytics data can be accessed.
+  - Verify that proposed queries or analytics integrations reference valid fields and use correct syntax.
+  - Help teams understand what's queryable when scoping analytics or reporting features.
 
 When reviewing a document or explaining a concept, **start by searching these sources** to ground your response in accurate, current information.
 

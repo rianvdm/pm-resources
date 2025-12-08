@@ -90,8 +90,8 @@ Match the format to the task:
 | Task | Format |
 |------|--------|
 | Strategy/spec drafts | Confluence Wiki Markup (see `reference/confluence-wiki-markup-syntax.md`) |
-| OKRs | Use structure from `prompts/pm/draft-okrs.md` |
-| PRDs | Use structure from `prompts/pm/draft-prd.md` |
+| OKRs | Use structure from `prompts/pm/draft-review-okrs.md` |
+| PRDs | Use structure from `prompts/pm/draft-review-prd.md` |
 | Quick answers | Plain text, bullets |
 | Meeting prep | Bullet list of key points, questions to ask, decisions needed |
 | Email/Gchat drafts | Match my voice—direct, concise, kind |

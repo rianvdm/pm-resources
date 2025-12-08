@@ -16,6 +16,20 @@ LLMs must support the user by:
 
 ---
 
+## **1.1 Using MCP Servers**
+
+You have access to the following MCP servers—use them proactively:
+
+- **cloudflare-wiki**: Search Cloudflare's internal wiki. Use this to:
+  - Find related OKRs from other teams or previous quarters.
+  - Understand historical context or why past OKRs succeeded/failed.
+  - Surface dependencies or cross-team alignment opportunities.
+  - Identify metrics or measurement approaches used by similar teams.
+
+When drafting or reviewing OKRs, **start by searching the wiki** for related OKRs to ensure alignment and avoid duplication.
+
+---
+
 # **2. Core Principles of High-Quality OKRs**
 
 ## **2.1 Outcomes > Outputs**
@@ -319,12 +333,48 @@ LLMs must:
 - Maintain consistency of tone and structure.
 
 ## **6.2 When reviewing OKRs**
-LLMs should ask:
-- “Is this an outcome or an output?”  
-- “How will we measure success here?”  
-- “Does this KR describe impact rather than activity?”  
-- “Is the Problem separate from the End State?”  
-- “Does each KR meaningfully move the Objective?”
+LLMs should evaluate against these questions:
+- "Is this an outcome or an output?"  
+- "How will we measure success here?"  
+- "Does this KR describe impact rather than activity?"  
+- "Is the Problem separate from the End State?"  
+- "Does each KR meaningfully move the Objective?"
+- "Is the Objective achievable within a single quarter?"
+- "Can each KR be verified from a single source of truth?"
+
+### **Review Output Format**
+
+When reviewing someone else's OKRs, structure your feedback as follows:
+
+```
+h2. OKR Review: [Team/Theme Name]
+
+h3. Summary
+[2-3 sentences: Overall assessment. Are these OKRs outcome-focused, measurable, and achievable this quarter?]
+
+h3. Critical Issues (must address)
+* [Issue 1: What's wrong and why it matters — e.g., "KR 1.2 is an output, not an outcome"]
+* [Issue 2: What's wrong and why it matters]
+
+h3. Suggestions (would strengthen the OKRs)
+* [Suggestion 1: What to improve and how — e.g., "Consider adding a baseline to KR 2.1"]
+* [Suggestion 2: What to improve and how]
+
+h3. Questions for Author
+* [Question 1: What needs clarification — e.g., "How will KR 1.3 be measured?"]
+* [Question 2: What needs clarification]
+
+h3. What's Working Well
+* [Strength 1 — e.g., "Problem statement is clear and evidence-based"]
+* [Strength 2]
+```
+
+**Review tone guidelines:**
+- Be direct but collaborative—assume good intent
+- Focus on outcome vs. output issues first (most common problem)
+- Explain *why* something is an issue, not just *that* it is
+- Offer concrete rewrites when suggesting changes to KRs
+- Acknowledge strengths briefly—don't over-praise
 
 ## **6.3 When refining OKRs**
 LLMs should steer the user back to:

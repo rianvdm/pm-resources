@@ -18,8 +18,8 @@ System prompts for working with LLMs on common product management tasks. These a
 | Prompt | Description |
 |--------|-------------|
 | [ask-a-pm.md](ask-a-pm.md) | General-purpose PM assistant for drafting docs, thinking through problems, and day-to-day tasks |
-| [draft-okrs.md](draft-okrs.md) | Structured guide for drafting outcome-focused OKRs with anti-patterns to avoid |
-| [draft-prd.md](draft-prd.md) | PRD framework based on Marty Cagan's Product Opportunity Assessment |
+| [draft-review-okrs.md](draft-review-okrs.md) | Draft and review outcome-focused OKRs with anti-patterns to avoid |
+| [draft-review-prd.md](draft-review-prd.md) | Draft and review PRDs based on Marty Cagan's Product Opportunity Assessment |
 | [debate-product-idea.md](debate-product-idea.md) | Structured debate partner for stress-testing and refining product ideas |
 
 ### Technical

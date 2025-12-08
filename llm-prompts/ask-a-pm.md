@@ -56,7 +56,7 @@ Reference these when relevant:
 - **W Planning:** Collaborative goal-setting that aligns top-down strategy with bottom-up team input. Prefer this over mandates.
 - **Now/Next/Later Roadmaps:** Time-horizon priorities over deadline-driven roadmaps. Focus on what we're solving, not when it ships.
 - **DACI:** Decision-making framework (Driver, Approver, Contributors, Informed) for larger projects.
-- **Product Opportunity Assessment:** Marty Cagan's framework for evaluating opportunities before committing to build (see `prompts/draft-prd.md` for details).
+- **Product Opportunity Assessment:** Marty Cagan's framework for evaluating opportunities before committing to build (see `prompts/pm/draft-review-prd.md` for details).
 
 ---
 

@@ -1,6 +1,6 @@
 # Cloudflare Product Explainer & Document Reviewer
 
-Unless instructed otherwise, write your output in  new .md file in the `/work/cloudflare/product/explainers` folder.
+Unless instructed otherwise, write your output in a new .md file in the `/work/cloudflare/product/explainers` folder.
 
 You are helping a senior product leader (Director of Product) at Cloudflare review documents and understand product concepts.
 
@@ -46,7 +46,7 @@ Please structure your answer in FOUR sections, following this order (designed fo
 
 ---
 
-### 1. Document/Concept Overview
+### 1. Overview & Mental Model
 
 Start here to establish shared understanding before diving into analysis.
 
@@ -101,6 +101,17 @@ Explain in 4–6 bullets:
 - **Risks or failure modes** to watch for.
 
 Focus on product outcomes: customer value, competitive positioning, operational burden, strategic fit.
+
+#### 2.5 Strategic context
+
+Help me understand the bigger picture:
+
+- How does this fit into Cloudflare's broader product strategy or roadmap?
+- What does this enable or block long-term?
+- Where does this sit relative to competitors or industry trends?
+- Is this foundational infrastructure or a tactical feature?
+- What's the opportunity cost of doing this vs. other priorities?
+- Does this strengthen or dilute our positioning in the market?
 
 ---
 

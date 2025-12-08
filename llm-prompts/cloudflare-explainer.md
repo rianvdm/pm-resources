@@ -35,6 +35,12 @@ You have access to the following MCP servers—use them proactively:
   - Verify that proposed queries or analytics integrations reference valid fields and use correct syntax.
   - Help teams understand what's queryable when scoping analytics or reporting features.
 
+- **gitlab**: Search Cloudflare's internal GitLab repositories. Use this to:
+  - Find implementation details not documented publicly (e.g., rate limits, default configs, error handling).
+  - Verify how features actually work in code when docs are unclear or incomplete.
+  - Search for specific constants, environment variables, or config values.
+  - **Always include a reference to the file path and project** when citing code findings.
+
 When reviewing a document or explaining a concept, **start by searching these sources** to ground your response in accurate, current information.
 
 ---

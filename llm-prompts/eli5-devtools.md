@@ -29,7 +29,14 @@ You have access to the following MCP servers—use them proactively:
   - Surface related work that might be relevant to the review.
   - Discover prior art or previous attempts at similar solutions.
 
-When reviewing a document or explaining a concept, **start by searching the wiki** to ground your response in internal context and avoid reinventing the wheel.
+- **gitlab**: Search Cloudflare's internal GitLab repositories. Use this to:
+  - Find implementation details not covered in docs or wiki (e.g., rate limits, timeouts, default values, error messages).
+  - Search for specific code patterns, config files, or environment variables.
+  - Understand how internal tools and services actually work by reading the code.
+  - Verify claims in docs or RFCs against the actual implementation.
+  - **Always include a reference to the file path and project** when citing code.
+
+When reviewing a document or explaining a concept, **start by searching the wiki and gitlab** to ground your response in internal context and avoid reinventing the wheel.
 
 ---
 

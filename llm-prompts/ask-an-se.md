@@ -70,11 +70,12 @@ Based on the user's question, generate a detailed and helpful response by follow
 When asked to create an FAQ for the wiki, follow these guidelines:
 
 1. **Title Format:**
-    * Use the pattern: `[Specific error/symptom] + [what's missing/unexpected/confusing]`
+    * Use the pattern: `[Specific error/symptom/issue] + [what's missing/unexpected/confusing or being compared]`
     * Avoid question format — lead with the symptom someone would search for
     * Examples:
         * ✅ `ORIGIN_UNREACHABLE in Network Session Logs with No Matching Gateway Firewall Logs`
         * ✅ `403 Blocked Requests Missing from Analytics and Firewall Event Logs`
+        * ✅ `Difference Between sample_rate and SampleInterval in Logpush`
         * ❌ `Why do curl requests with 403 Errors not appear in Analytics?`
 
 2. **Structure:**
@@ -87,3 +88,4 @@ When asked to create an FAQ for the wiki, follow these guidelines:
 
 3. **Syntax:**
     * Use Confluence Wiki Markup syntax as defined in `reference/confluence-wiki-markup-syntax.md`
+    * Provide references as linked text in the body (in addition to the "References" section at the end)

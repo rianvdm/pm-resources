@@ -116,25 +116,6 @@ Structure your response as:
 
 ---
 
-## Common Investigation Patterns
-
-### Entitlements & Billing
-- **Feature definitions:** `entitlements-api/feature-inventory/*.yaml`
-- **Group defaults:** `entitlements-api/group-inventory/*.yaml`
-- **Account types:** `catalog-api/data/accounts/*.yaml`
-- **Rate plans:** `catalog-api/data/products_*.yaml`
-
-### Logpush
-- **Dataset setup:** [Adding new Logstream-based dataset](https://wiki.cfdata.org/pages/viewpage.action?pageId=830740837)
-- **Entitlement check:** Logpush API checks `logpush.<dataset>.max_jobs_allowed`
-- **Main repo:** `cloudflare/data/logpush`
-
-### Zero Trust / Teams
-- **Entitlements:** `entitlements-api/group-inventory/teams.yaml`
-- **Subscriptions:** `TEAMS_ENT`, `TEAMS_GATEWAY_ENT`, etc.
-
----
-
 ## Output Formats
 
 | Task | Format |

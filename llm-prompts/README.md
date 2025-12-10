@@ -26,7 +26,8 @@ System prompts for working with LLMs on common product management tasks. These a
 
 | Prompt | Description |
 |--------|-------------|
-| [ask-an-se.md](ask-an-se.md) | Technical Q&A assistant using official Cloudflare documentation |
+| [ask-a-dev.md](technical/ask-a-dev.md) | Staff Engineer assistant for navigating codebases, understanding systems, and guiding technical changes |
+| [ask-an-se.md](technical/ask-an-se.md) | Technical Q&A assistant using official Cloudflare documentation |
 | [eli5-devtools.md](eli5-devtools.md) | Explains technical DevTools/infrastructure concepts for PMs |
 | [cloudflare-explainer.md](cloudflare-explainer.md) | Explains Cloudflare products in clear, PM-friendly language |
 

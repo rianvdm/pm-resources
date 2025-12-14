@@ -2,10 +2,6 @@
 
 A slowly-expanding collection of resources, templates, and guidelines for product managers. For more PM articles and resources, see my blog, [Elezea](https://elezea.com/blog/).
 
-## LLM Prompts
-
-System prompts for working with LLMs on common PM tasks. See more detail in the [directory README](/llm-prompts/).
-
 ## Processes
 * [W Planning](processes/w-planning.md)
 * [Now/Next/Later roadmap](processes/nownextlater.md)

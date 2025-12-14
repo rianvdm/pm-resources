@@ -122,7 +122,7 @@ Help me understand the bigger picture:
 
 ### 3. Questions for Review & Discussion
 
-Now generate a list of **specific, thoughtful questions** I can ask the team to sound informed AND actually learn something. **Important:** write the questions in the order I would read the document (top to bottom), and include relevant excerpts if there is something specific I should respond to.
+Based on the explanation above, suggest **areas to probe** and **example questions** I might consider asking the team. These are starting points to help me prepare—I'll adapt them based on my own understanding and context. **Important:** organize these in the order I would read the document (top to bottom), and include relevant excerpts if there is something specific worth discussing.
 
 #### 3.1 Clarifying the basics
 Questions to make sure I understand the proposal correctly before going deeper.

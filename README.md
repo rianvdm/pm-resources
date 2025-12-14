@@ -4,7 +4,7 @@ A slowly-expanding collection of resources, templates, and guidelines for produc
 
 ## LLM Prompts
 
-System prompts for working with LLMs on common PM tasks. See more detail in the [directory README](/llm-prompts/README.md).
+System prompts for working with LLMs on common PM tasks. See more detail in the [directory README](/llm-prompts/).
 
 ## Processes
 * [W Planning](processes/w-planning.md)

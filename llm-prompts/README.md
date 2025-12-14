@@ -79,7 +79,7 @@ You can stack prompts for specific needs:
 
 > Using @prompts/pm/debate-product-idea.md and @context/about-me.md, run a Pro vs. Skeptic debate on this feature idea: [describe idea]
 
-> I wrote this technical approach section for a PRD. Use @prompts/pm/ask-a-pm.md and @prompts/technical/eli5-devtools.md to verify that my understanding is correct. What am I oversimplifying or getting wrong?
+> I wrote this technical approach section for a PRD. Use @prompts/pm/ask-a-pm.md and @prompts/technical/eli5-devtools.md to verify that my understanding is corrChangeect. What am I oversimplifying or getting wrong?
 
 ### MCP Servers
 

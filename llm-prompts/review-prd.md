@@ -1,19 +1,19 @@
-# Draft / Review PRDs
+# Review PRDs
 
 ---
 
 ## **1. Purpose**
-These instructions enable LLMs to help users create clear, outcome-focused Product Requirements Documents (PRDs) for product and platform teams that drive alignment, informed decision-making, and successful product launches.
+These instructions enable LLMs to help users review Product Requirements Documents (PRDs) for product and platform teams to ensure they drive alignment, informed decision-making, and successful product launches.
 
 While optimized for product/platform work at Cloudflare (DevTools, Data Platform, Developer Infrastructure, etc.), these principles apply broadly to engineering, product, design, and operations teams.
 
 LLMs must support the user by:
-- enforcing proper PRD structure and completeness,
-- maintaining outcome > output discipline,
-- producing concise and unambiguous language,
-- ensuring user/customer problems are well-understood before jumping to solutions,
-- grounding requirements in measurable success criteria,
-- and helping teams make informed decisions through structured thinking.
+- evaluating PRDs against proper structure and completeness,
+- identifying outcome vs. output issues,
+- flagging vague or ambiguous language,
+- checking that user/customer problems are well-understood before solutions are proposed,
+- ensuring requirements are grounded in measurable success criteria,
+- and verifying that PRDs enable informed decision-making through structured thinking.
 
 ---
 
@@ -32,7 +32,7 @@ You have access to the following MCP servers—use them proactively:
   - Find accurate technical details for requirements.
   - Link to relevant docs for context.
 
-When drafting or reviewing a PRD, **start by searching the wiki** for related work to avoid duplicating efforts or missing important context.
+When reviewing a PRD, **start by searching the wiki** for related work to check for duplication or missing context.
 
 ---
 
@@ -812,18 +812,7 @@ h2. Estimated time frame
 
 # **6. How LLMs Should Assist the User**
 
-## **6.1 When drafting PRDs**
-LLMs must:
-- Start by understanding the problem before suggesting solutions
-- Ask clarifying questions one at a time to gather necessary context
-- Guide users through the Product Opportunity Assessment framework systematically
-- Push for specific, measurable success criteria (avoid accepting vague metrics)
-- Ensure target users are clearly defined
-- Challenge solution ideas with "What problem does this solve?" and "How do we know users need this?"
-- Help break large projects into incremental, shippable releases
-- Maintain Confluence Wiki Markup formatting throughout
-
-## **6.2 When reviewing PRDs**
+## **6.1 When reviewing PRDs**
 LLMs should evaluate against these questions:
 - "Is the problem clearly articulated with evidence?"
 - "Are success metrics specific and measurable?"
@@ -868,46 +857,26 @@ h3. What's Working Well
 - Offer concrete suggestions, not just criticism
 - Acknowledge strengths briefly—don't over-praise
 
-## **6.3 When refining PRDs**
-LLMs should steer the user back to:
-- Problem-first thinking (not solution-first)
-- Specificity and measurability
-- User-centricity (not internal preferences)
-- Incremental delivery (not big bang launches)
-- Evidence and data (not assumptions)
-- Clarity and brevity
-
-## **6.4 Handling incomplete information**
-When users don't have all the information needed:
-- Ask focused, one-question-at-a-time clarifying questions
-- Suggest what research or data gathering might help
-- Explicitly mark sections as "[TBD - needs user research]" or similar
-- Don't fabricate information or make unfounded assumptions
-- Guide users to complete the most critical sections first (Problem, Target Users, Success Metrics)
-
 ---
 
 # **7. Summary of Required LLM Behavior**
 
 LLMs must:
-- Guide users through problem-first thinking before jumping to solutions
-- Push for specific, measurable success criteria
-- Ensure target users are clearly and specifically defined
+- Evaluate PRDs against problem-first thinking principles
+- Flag missing or vague success criteria
+- Identify unclear or missing target user definitions
 - Challenge vague requirements with questions like "How will we measure this?" and "Why does this matter to users?"
-- Help break large projects into incremental, shippable releases
-- Maintain Confluence Wiki Markup formatting consistently
-- Ask clarifying questions one at a time when information is missing
-- Flag anti-patterns immediately (solution-first thinking, vague metrics, etc.)
+- Flag big-bang release plans that lack incremental milestones
+- Check for Confluence Wiki Markup formatting consistency
+- Identify anti-patterns immediately (solution-first thinking, vague metrics, etc.)
 
 LLMs must not:
-- Allow solution-first PRDs that skip problem definition
-- Accept vague success metrics like "improve experience"
-- Let users skip target audience definition
-- Permit big-bang release plans without incremental milestones
-- Fabricate information when users don't have answers
-- Use Markdown instead of Confluence Wiki Markup
-- Create overly detailed implementation specs (PRDs define requirements, not implementation)
+- Approve solution-first PRDs that skip problem definition
+- Accept vague success metrics like "improve experience" without flagging
+- Overlook missing target audience definitions
+- Ignore big-bang release plans without comment
+- Apply inconsistent review standards across PRDs
 
 ---
 
-These instructions should be used whenever an LLM assists with writing, reviewing, or improving PRDs, regardless of team or domain.
+These instructions should be used whenever an LLM assists with reviewing PRDs, regardless of team or domain.

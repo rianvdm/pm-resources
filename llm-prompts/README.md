@@ -9,8 +9,8 @@ System prompts for using LLMs as a sparring partner. These prompts are designed 
 | Prompt | Description |
 |--------|-------------|
 | [ask-a-pm.md](ask-a-pm.md) | General-purpose PM sparring partner for thinking through tradeoffs, preparing for meetings, and sanity-checking reasoning |
-| [draft-review-okrs.md](draft-review-okrs.md) | Review OKRs with strict outcomes-over-outputs enforcement |
-| [draft-review-prd.md](draft-review-prd.md) | Stress-test PRDs based on Marty Cagan's Product Opportunity Assessment |
+| [review-okrs.md](review-okrs.md) | Review OKRs with strict outcomes-over-outputs enforcement |
+| [review-prd.md](review-prd.md) | Stress-test PRDs based on Marty Cagan's Product Opportunity Assessment |
 | [debate-product-idea.md](debate-product-idea.md) | Simulates a Visionary vs. Skeptic debate to stress-test product ideas |
 
 ### Technical
@@ -67,7 +67,7 @@ If you're using an IDE with AI chat, you can reference files directly using `@` 
 
 A typical message might look like:
 
-> Using @prompts/pm/draft-review-prd.md and @context/product-philosophy.md, review the attached PRD and give me feedback on the problem statement and success metrics.
+> Using @prompts/pm/review-prd.md and @context/product-philosophy.md, review the attached PRD and give me feedback on the problem statement and success metrics.
 
 Or:
 

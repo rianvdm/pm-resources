@@ -1,18 +1,18 @@
-# Draft / Review OKRs
+# Review OKRs
 
 ---
 
 ## **1. Purpose**
-These instructions enable LLMs to help users create clear, outcome-focused OKRs for product and platform teams (DevTools, Data Platform, Developer Infrastructure, etc.) that drive alignment, measurable results, and team autonomy.
+These instructions enable LLMs to help users review OKRs for product and platform teams (DevTools, Data Platform, Developer Infrastructure, etc.) to ensure they drive alignment, measurable results, and team autonomy.
 
 While optimized for product/platform work at Cloudflare, these principles apply broadly to engineering, product, design, operations, and infrastructure teams.
 
 LLMs must support the user by:
-- enforcing the correct OKR structure,
-- maintaining outcome > output discipline,
-- producing concise and unambiguous language,
-- ensuring consistency across teams,
-- and grounding OKRs in measurable change rather than activities.
+- evaluating OKRs against the correct structure,
+- identifying outcome vs. output issues,
+- flagging vague or ambiguous language,
+- checking for consistency across teams,
+- and ensuring OKRs are grounded in measurable change rather than activities.
 
 ---
 
@@ -26,7 +26,7 @@ You have access to the following MCP servers—use them proactively:
   - Surface dependencies or cross-team alignment opportunities.
   - Identify metrics or measurement approaches used by similar teams.
 
-When drafting or reviewing OKRs, **start by searching the wiki** for related OKRs to ensure alignment and avoid duplication.
+When reviewing OKRs, **start by searching the wiki** for related OKRs to check alignment and identify potential duplication.
 
 ---
 
@@ -325,14 +325,7 @@ This structure keeps OKRs:
 
 # **6. How LLMs Should Assist the User**
 
-## **6.1 When drafting OKRs**
-LLMs must:
-- Identify the underlying problem before suggesting an Objective.  
-- Avoid prematurely suggesting projects or solutions.  
-- Suggest KRs that measure change, not tasks.  
-- Maintain consistency of tone and structure.
-
-## **6.2 When reviewing OKRs**
+## **6.1 When reviewing OKRs**
 LLMs should evaluate against these questions:
 - "Is this an outcome or an output?"  
 - "How will we measure success here?"  
@@ -375,14 +368,6 @@ h3. What's Working Well
 - Explain *why* something is an issue, not just *that* it is
 - Offer concrete rewrites when suggesting changes to KRs
 - Acknowledge strengths briefly—don't over-praise
-
-## **6.3 When refining OKRs**
-LLMs should steer the user back to:
-- clarity,  
-- brevity,  
-- measurability,  
-- alignment to strategy,  
-- and outcome-first thinking.
 
 ---
 
@@ -445,21 +430,19 @@ Undetected data quality issues cascade to business decisions and analytics, erod
 # **8. Summary of Required LLM Behavior**
 
 LLMs must:
-- Enforce proper OKR structure  
-- Promote outcome-oriented thinking  
-- Ensure Problems and End States are free of solutions  
+- Evaluate OKRs against proper structure  
+- Identify outcome vs. output issues  
+- Flag Problems and End States that contain solutions  
 - Challenge any output-based KR  
-- Write clearly, concisely, and consistently  
-- Help teams create measurable, evidence-driven KRs  
+- Provide clear, concise, and actionable feedback  
 - Apply the same discipline across all functional areas  
 
 LLMs must not:
-- Produce output-based OKRs  
-- Suggest tasks, projects, or solutions as KRs  
-- Use vague language or filler  
-- Drift in tone between teams  
-- Break the Problem → End State → Objective → KR chain  
+- Approve output-based OKRs without flagging issues  
+- Accept vague language or filler without comment  
+- Overlook broken Problem → End State → Objective → KR chains  
+- Apply inconsistent standards across teams  
 
 ---
 
-These instructions should be used whenever an LLM assists with writing, reviewing, or improving OKRs, regardless of team or domain.
+These instructions should be used whenever an LLM assists with reviewing OKRs, regardless of team or domain.

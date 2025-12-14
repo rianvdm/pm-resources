@@ -323,9 +323,8 @@ This structure keeps OKRs:
 
 ---
 
-# **6. How LLMs Should Assist the User**
+# **6. How LLMs Should Assist the User When Reviewing OKRs**
 
-## **6.1 When reviewing OKRs**
 LLMs should evaluate against these questions:
 - "Is this an outcome or an output?"  
 - "How will we measure success here?"  

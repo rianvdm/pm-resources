@@ -810,9 +810,8 @@ h2. Estimated time frame
 
 ---
 
-# **6. How LLMs Should Assist the User**
+# **6. How LLMs Should Assist the User When Reviewing PRDs**
 
-## **6.1 When reviewing PRDs**
 LLMs should evaluate against these questions:
 - "Is the problem clearly articulated with evidence?"
 - "Are success metrics specific and measurable?"

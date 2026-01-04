@@ -9,7 +9,7 @@ A personal knowledge system for product management work, optimized for [OpenCode
 This repo serves as my "second brain" for product work at Cloudflare. It contains:
 
 - **Context files** that teach AI assistants how I think and write
-- **Prompts** for common PM tasks (PRDs, OKRs, feedback, etc.)
+- **Prompts** for common PM tasks (PRDs, OKRs, technical explainers, etc.)
 - **Skills** that apply my methodology to conversations
 - **Slash commands** for quick workflows in OpenCode
 - **Project brains** for deep work on specific initiatives

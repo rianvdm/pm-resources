@@ -35,7 +35,6 @@ context/            # Personal context files (philosophy, writing style, etc.)
 prompts/
 ├── pm/             # Product management prompts
 ├── dev/            # Development and debugging prompts
-├── hr/             # Feedback and interview prompts
 └── meta/           # Prompts for creating/improving prompts
 
 work/
@@ -82,7 +81,6 @@ Quick workflows for OpenCode. Run these by typing the command in your conversati
 | `/okr` | Draft or review OKRs |
 | `/debate` | Stress-test a product idea with pro vs skeptic simulation |
 | `/retro` | Facilitate or document a retrospective |
-| `/feedback` | Draft colleague feedback |
 | `/new-project` | Scaffold a new project brain folder |
 | `/ask-se` | Get help understanding technical concepts |
 | `/today` | Generate end-of-day summary from file activity |
@@ -222,16 +220,9 @@ Standalone prompts that work in any AI tool. Copy the content into your conversa
 - `prompts/dev/development-session.md` - Development session instructions
 - `prompts/dev/general-dev-guidance.md` - General development guidance
 
-**HR:**
-- `prompts/hr/draft-colleague-feedback.md` - Write performance feedback
-- `prompts/hr/summarize-interview.md` - Summarize interview notes
-
 **Meta:**
 - `prompts/meta/create-prompt.md` - Generate new prompts
 - `prompts/meta/improve-prompt.md` - Refine existing prompts
-
-**Personal:**
-- `prompts/personal/weekly-review.md` - Weekly review and reflection
 
 ## Project Brains
 
